@@ -1,3 +1,6 @@
+##DEPRECIATED
+# API is no longer accessible.
+
 # BA Rewards
 
 This gem makes it easy to get usually difficult-to-access information
