@@ -1,5 +1,4 @@
-## DEPRECIATED
-# API is no longer accessible.
+# DEPRECIATED - API is no longer accessible.
 
 # BA Rewards
 
