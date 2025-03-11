@@ -1,4 +1,5 @@
 require 'httparty'
+require 'date'
 require 'ba_rewards/result'
 
 module BARewards
